@@ -1,0 +1,37 @@
+
+<field 
+    name="UF" 
+    type="list" 
+    default="" 
+    label="FIELD_UF" 
+    description=""
+            >
+    <option value="">UF_UNDEFINED</option>
+    <option value="AC">UF_AC</option>
+    <option value="AL">UF_AL</option>
+    <option value="AP">UF_AP</option>
+    <option value="AM">UF_AM</option>
+    <option value="BA">UF_BA</option>
+    <option value="CE">UF_CE</option>
+    <option value="ES">UF_ES</option>
+    <option value="DF">UF_DF</option>
+    <option value="GO">UF_GO</option>
+    <option value="MA">UF_MA</option>
+    <option value="MT">UF_MT</option>
+    <option value="MS">UF_MS</option>
+    <option value="MG">UF_MG</option>
+    <option value="PA">UF_PA</option>
+    <option value="PB">UF_PB</option>
+    <option value="PR">UF_PR</option>
+    <option value="PE">UF_PE</option>
+    <option value="PI">UF_PI</option>
+    <option value="RJ">UF_RJ</option>
+    <option value="RN">UF_RN</option>
+    <option value="RS">UF_RS</option>
+    <option value="RO">UF_RO</option>
+    <option value="SC">UF_SC</option>
+    <option value="RR">UF_RR</option>
+    <option value="SP">UF_SP</option>
+    <option value="SE">UF_SE</option>
+    <option value="TO">UF_TO</option>
+</field>
