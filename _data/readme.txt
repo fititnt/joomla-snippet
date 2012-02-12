@@ -1,0 +1,1 @@
+Examples of diferent types of files to parse by snippets of this repository

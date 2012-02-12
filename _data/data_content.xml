@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pma_xml_export version="1.0" xmlns:pma="http://www.phpmyadmin.net/some_doc_url/">
+    <pma:structure_schemas>
+        <pma:database name="db_joomla" collation="utf8_general_ci" charset="utf8">
+        </pma:database>
+    </pma:structure_schemas>
+    <database name="db_joomla">
+        <table name="jos_content">
+            <column name="id">1</column>
+            <column name="asset_id">89</column>
+            <column name="title">Administrator Components</column>
+            <column name="alias">administrator-components</column>
+            <column name="title_alias"></column>
+            <column name="introtext">&lt;p&gt;All components also are used in the administrator area of your website. In addition to the ones listed here, there are components in the administrator that do not have direct front end displays, but do help shape your site. The most important ones for most users are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Media Manager&lt;/li&gt;
+&lt;li&gt;Extensions Manager&lt;/li&gt;
+&lt;li&gt;Menu Manager&lt;/li&gt;
+&lt;li&gt;Global Configuration&lt;/li&gt;
+&lt;li&gt;Banners&lt;/li&gt;
+&lt;li&gt;Redirect&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr title=&quot;Media Manager&quot; alt=&quot;Media Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3&gt;Media Manager&lt;/h3&gt;
+&lt;p&gt;The media manager component lets you upload and insert images into content throughout your site. Optionally, you can enable the flash uploader which will allow you to to upload multiple images. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Content_Media_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Extensions Manager&quot; alt=&quot;Extensions Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Extensions Manager&lt;/h3&gt;
+&lt;p&gt;The extensions manager lets you install, update, uninstall and manage all of your extensions. The extensions manager has been extensively redesigned for Joomla! 1.6, although the core install and uninstall functionality remains the same as in Joomla 1.5. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Extension_Manager_Install&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Menu Manager&quot; alt=&quot;Menu Manager&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Menu Manager&lt;/h3&gt;
+&lt;p&gt;The menu manager lets you create the menus you see displayed on your site. It also allows you to assign modules and template styles to specific menu links. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Menus_Menu_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Global Configuration&quot; alt=&quot;Global Configuration&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Global Configuration&lt;/h3&gt;
+&lt;p&gt;The global configuration is where the site administrator configures things such as whether search engine friendly urls are enabled, the site meta data (descriptive text used by search engines and indexers) and other functions. For many beginning users simply leaving the settings on default is a good way to begin, although when your site is ready for the public you will want to change the meta data to match its content. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Site_Global_Configuration&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;hr title=&quot;Banners&quot; alt=&quot;Banners&quot; class=&quot;system-pagebreak&quot; style=&quot;color: gray; border: 1px dashed gray;&quot; /&gt;
+&lt;h3&gt;Banners&lt;/h3&gt;
+&lt;p&gt;The banners component provides a simple way to display a rotating image in a module and, if you wish to have advertising, a way to track the number of times an image is viewed and clicked. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Banners_Banners_Edit&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;
+&lt;hr title=&quot;Redirect&quot; class=&quot;system-pagebreak&quot; /&gt;
+&lt;/h3&gt;
+&lt;h3&gt;&lt;br /&gt;Redirect&lt;/h3&gt;
+&lt;p&gt;The redirect component is used to manage broken links that produce Page Not Found (404) errors. If enabled it will allow you to redirect broken links to specific pages. It can also be used to manage migration related URL changes. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Components_Redirect_Manager&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;</column>
+            <column name="fulltext"></column>
+            <column name="state">1</column>
+            <column name="sectionid">0</column>
+            <column name="mask">0</column>
+            <column name="catid">21</column>
+            <column name="created">2011-01-01 00:00:01</column>
+            <column name="created_by">42</column>
+            <column name="created_by_alias">Joomla!</column>
+            <column name="modified">2011-01-10 12:57:27</column>
+            <column name="modified_by">42</column>
+            <column name="checked_out">0</column>
+            <column name="checked_out_time">0000-00-00 00:00:00</column>
+            <column name="publish_up">2011-01-01 00:00:01</column>
+            <column name="publish_down">0000-00-00 00:00:00</column>
+            <column name="images"></column>
+            <column name="urls"></column>
+            <column name="attribs">{&quot;show_title&quot;:&quot;&quot;,&quot;link_titles&quot;:&quot;&quot;,&quot;show_intro&quot;:&quot;&quot;,&quot;show_category&quot;:&quot;&quot;,&quot;link_category&quot;:&quot;&quot;,&quot;show_parent_category&quot;:&quot;&quot;,&quot;link_parent_category&quot;:&quot;&quot;,&quot;show_author&quot;:&quot;&quot;,&quot;link_author&quot;:&quot;&quot;,&quot;show_create_date&quot;:&quot;&quot;,&quot;show_modify_date&quot;:&quot;&quot;,&quot;show_publish_date&quot;:&quot;&quot;,&quot;show_item_navigation&quot;:&quot;&quot;,&quot;show_icons&quot;:&quot;&quot;,&quot;show_print_icon&quot;:&quot;&quot;,&quot;show_email_icon&quot;:&quot;&quot;,&quot;show_vote&quot;:&quot;&quot;,&quot;show_hits&quot;:&quot;&quot;,&quot;show_noauth&quot;:&quot;&quot;,&quot;alternative_readmore&quot;:&quot;&quot;,&quot;article_layout&quot;:&quot;&quot;}</column>
+            <column name="version">7</column>
+            <column name="parentid">0</column>
+            <column name="ordering">7</column>
+            <column name="metakey"></column>
+            <column name="metadesc"></column>
+            <column name="access">1</column>
+            <column name="hits">2</column>
+            <column name="metadata">{&quot;robots&quot;:&quot;&quot;,&quot;author&quot;:&quot;&quot;,&quot;rights&quot;:&quot;&quot;,&quot;xreference&quot;:&quot;&quot;}</column>
+            <column name="featured">0</column>
+            <column name="language">*</column>
+            <column name="xreference"></column>
+        </table>
+        <table name="jos_content">
+            <column name="id">2</column>
+            <column name="asset_id">90</column>
+            <column name="title">Archive Module</column>
+            <column name="alias">archive-module</column>
+            <column name="title_alias"></column>
+            <column name="introtext">&lt;p&gt;This module shows a list of the calendar months containing archived articles. After you have changed the status of an article to archived, this list will be automatically generated. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Archive&quot; title=&quot;Archive Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_archive,Archived Articles}&lt;/div&gt;</column>
+            <column name="fulltext"></column>
+            <column name="state">1</column>
+            <column name="sectionid">0</column>
+            <column name="mask">0</column>
+            <column name="catid">64</column>
+            <column name="created">2011-01-01 00:00:01</column>
+            <column name="created_by">42</column>
+            <column name="created_by_alias">Joomla!</column>
+            <column name="modified">2011-09-17 22:18:05</column>
+            <column name="modified_by">42</column>
+            <column name="checked_out">0</column>
+            <column name="checked_out_time">0000-00-00 00:00:00</column>
+            <column name="publish_up">2011-01-01 00:00:01</column>
+            <column name="publish_down">0000-00-00 00:00:00</column>
+            <column name="images"></column>
+            <column name="urls"></column>
+            <column name="attribs">{&quot;show_title&quot;:&quot;&quot;,&quot;link_titles&quot;:&quot;&quot;,&quot;show_intro&quot;:&quot;&quot;,&quot;show_category&quot;:&quot;&quot;,&quot;link_category&quot;:&quot;&quot;,&quot;show_parent_category&quot;:&quot;&quot;,&quot;link_parent_category&quot;:&quot;&quot;,&quot;show_author&quot;:&quot;&quot;,&quot;link_author&quot;:&quot;&quot;,&quot;show_create_date&quot;:&quot;&quot;,&quot;show_modify_date&quot;:&quot;&quot;,&quot;show_publish_date&quot;:&quot;&quot;,&quot;show_item_navigation&quot;:&quot;&quot;,&quot;show_icons&quot;:&quot;&quot;,&quot;show_print_icon&quot;:&quot;&quot;,&quot;show_email_icon&quot;:&quot;&quot;,&quot;show_vote&quot;:&quot;&quot;,&quot;show_hits&quot;:&quot;&quot;,&quot;show_noauth&quot;:&quot;&quot;,&quot;page_title&quot;:&quot;&quot;,&quot;alternative_readmore&quot;:&quot;&quot;,&quot;layout&quot;:&quot;&quot;}</column>
+            <column name="version">5</column>
+            <column name="parentid">0</column>
+            <column name="ordering">5</column>
+            <column name="metakey">modules, content</column>
+            <column name="metadesc"></column>
+            <column name="access">1</column>
+            <column name="hits">5</column>
+            <column name="metadata">{&quot;robots&quot;:&quot;&quot;,&quot;author&quot;:&quot;&quot;,&quot;rights&quot;:&quot;&quot;,&quot;xreference&quot;:&quot;&quot;}</column>
+            <column name="featured">0</column>
+            <column name="language">*</column>
+            <column name="xreference"></column>
+        </table>
+        <table name="jos_content">
+            <column name="id">3</column>
+            <column name="asset_id">91</column>
+            <column name="title">Article Categories Module</column>
+            <column name="alias">article-categories-module</column>
+            <column name="title_alias"></column>
+            <column name="introtext">&lt;p&gt;This module displays a list of categories from one parent category. &lt;a href=&quot;http://help.joomla.org/proxy/index.php?option=com_help&amp;amp;keyref=Help16:Extensions_Module_Manager_Articles_Categories&quot; title=&quot;Categories Module&quot;&gt;Help&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;sample-module&quot;&gt;{loadmodule articles_categories,Articles Categories}&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</column>
+            <column name="fulltext"></column>
+            <column name="state">1</column>
+            <column name="sectionid">0</column>
+            <column name="mask">0</column>
+            <column name="catid">64</column>
+            <column name="created">2011-01-01 00:00:01</column>
+            <column name="created_by">42</column>
+            <column name="created_by_alias"></column>
+            <column name="modified">2011-09-17 22:13:31</column>
+            <column name="modified_by">42</column>
+            <column name="checked_out">0</column>
+            <column name="checked_out_time">0000-00-00 00:00:00</column>
+            <column name="publish_up">2011-01-01 00:00:01</column>
+            <column name="publish_down">0000-00-00 00:00:00</column>
+            <column name="images"></column>
+            <column name="urls"></column>
+            <column name="attribs">{&quot;show_title&quot;:&quot;&quot;,&quot;link_titles&quot;:&quot;&quot;,&quot;show_intro&quot;:&quot;&quot;,&quot;show_category&quot;:&quot;&quot;,&quot;link_category&quot;:&quot;&quot;,&quot;show_parent_category&quot;:&quot;&quot;,&quot;link_parent_category&quot;:&quot;&quot;,&quot;show_author&quot;:&quot;&quot;,&quot;link_author&quot;:&quot;&quot;,&quot;show_create_date&quot;:&quot;&quot;,&quot;show_modify_date&quot;:&quot;&quot;,&quot;show_publish_date&quot;:&quot;&quot;,&quot;show_item_navigation&quot;:&quot;&quot;,&quot;show_icons&quot;:&quot;&quot;,&quot;show_print_icon&quot;:&quot;&quot;,&quot;show_email_icon&quot;:&quot;&quot;,&quot;show_vote&quot;:&quot;&quot;,&quot;show_hits&quot;:&quot;&quot;,&quot;show_noauth&quot;:&quot;&quot;,&quot;page_title&quot;:&quot;&quot;,&quot;alternative_readmore&quot;:&quot;&quot;,&quot;layout&quot;:&quot;&quot;}</column>
+            <column name="version">5</column>
+            <column name="parentid">0</column>
+            <column name="ordering">6</column>
+            <column name="metakey">modules, content</column>
+            <column name="metadesc"></column>
+            <column name="access">1</column>
+            <column name="hits">6</column>
+            <column name="metadata">{&quot;robots&quot;:&quot;&quot;,&quot;author&quot;:&quot;&quot;,&quot;rights&quot;:&quot;&quot;,&quot;xreference&quot;:&quot;&quot;}</column>
+            <column name="featured">0</column>
+            <column name="language">*</column>
+            <column name="xreference"></column>
+        </table>
+    </database>
+</pma_xml_export>

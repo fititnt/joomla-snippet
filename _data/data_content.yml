@@ -1,0 +1,109 @@
+%YAML 1.1
+---
+# jos_content
+-
+  id: 1
+  asset_id: 89
+  title: "Administrator Components"
+  alias: "administrator-components"
+  title_alias: ""
+  introtext: "<p>All components also are used in the administrator area of your website. In addition to the ones listed here, there are components in the administrator that do not have direct front end displays, but do help shape your site. The most important ones for most users are</p>\r\n<ul>\r\n<li>Media Manager</li>\r\n<li>Extensions Manager</li>\r\n<li>Menu Manager</li>\r\n<li>Global Configuration</li>\r\n<li>Banners</li>\r\n<li>Redirect</li>\r\n</ul>\r\n<hr title=\"Media Manager\" alt=\"Media Manager\" class=\"system-pagebreak\" style=\"color: gray; border: 1px dashed gray;\" />\r\n<p> </p>\r\n<h3>Media Manager</h3>\r\n<p>The media manager component lets you upload and insert images into content throughout your site. Optionally, you can enable the flash uploader which will allow you to to upload multiple images. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Content_Media_Manager\">Help</a></p>\r\n<hr title=\"Extensions Manager\" alt=\"Extensions Manager\" class=\"system-pagebreak\" style=\"color: gray; border: 1px dashed gray;\" />\r\n<h3>Extensions Manager</h3>\r\n<p>The extensions manager lets you install, update, uninstall and manage all of your extensions. The extensions manager has been extensively redesigned for Joomla! 1.6, although the core install and uninstall functionality remains the same as in Joomla 1.5. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Extension_Manager_Install\">Help</a></p>\r\n<hr title=\"Menu Manager\" alt=\"Menu Manager\" class=\"system-pagebreak\" style=\"color: gray; border: 1px dashed gray;\" />\r\n<h3>Menu Manager</h3>\r\n<p>The menu manager lets you create the menus you see displayed on your site. It also allows you to assign modules and template styles to specific menu links. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Menus_Menu_Manager\">Help</a></p>\r\n<hr title=\"Global Configuration\" alt=\"Global Configuration\" class=\"system-pagebreak\" style=\"color: gray; border: 1px dashed gray;\" />\r\n<h3>Global Configuration</h3>\r\n<p>The global configuration is where the site administrator configures things such as whether search engine friendly urls are enabled, the site meta data (descriptive text used by search engines and indexers) and other functions. For many beginning users simply leaving the settings on default is a good way to begin, although when your site is ready for the public you will want to change the meta data to match its content. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Site_Global_Configuration\">Help</a></p>\r\n<hr title=\"Banners\" alt=\"Banners\" class=\"system-pagebreak\" style=\"color: gray; border: 1px dashed gray;\" />\r\n<h3>Banners</h3>\r\n<p>The banners component provides a simple way to display a rotating image in a module and, if you wish to have advertising, a way to track the number of times an image is viewed and clicked. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Components_Banners_Banners_Edit\">Help</a></p>\r\n<h3>\r\n<hr title=\"Redirect\" class=\"system-pagebreak\" />\r\n</h3>\r\n<h3><br />Redirect</h3>\r\n<p>The redirect component is used to manage broken links that produce Page Not Found (404) errors. If enabled it will allow you to redirect broken links to specific pages. It can also be used to manage migration related URL changes. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Components_Redirect_Manager\">Help</a></p>"
+  fulltext: ""
+  state: 1
+  sectionid: 0
+  mask: 0
+  catid: 21
+  created: "2011-01-01 00:00:01"
+  created_by: 42
+  created_by_alias: "Joomla!"
+  modified: "2011-01-10 12:57:27"
+  modified_by: 42
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2011-01-01 00:00:01"
+  publish_down: "0000-00-00 00:00:00"
+  images: ""
+  urls: ""
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_intro\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"alternative_readmore\":\"\",\"article_layout\":\"\"}"
+  version: 7
+  parentid: 0
+  ordering: 7
+  metakey: ""
+  metadesc: ""
+  access: 1
+  hits: 2
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 2
+  asset_id: 90
+  title: "Archive Module"
+  alias: "archive-module"
+  title_alias: ""
+  introtext: "<p>This module shows a list of the calendar months containing archived articles. After you have changed the status of an article to archived, this list will be automatically generated. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Articles_Archive\" title=\"Archive Module\">Help</a></p>\r\n<div class=\"sample-module\">{loadmodule articles_archive,Archived Articles}</div>"
+  fulltext: ""
+  state: 1
+  sectionid: 0
+  mask: 0
+  catid: 64
+  created: "2011-01-01 00:00:01"
+  created_by: 42
+  created_by_alias: "Joomla!"
+  modified: "2011-09-17 22:18:05"
+  modified_by: 42
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2011-01-01 00:00:01"
+  publish_down: "0000-00-00 00:00:00"
+  images: ""
+  urls: ""
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_intro\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"page_title\":\"\",\"alternative_readmore\":\"\",\"layout\":\"\"}"
+  version: 5
+  parentid: 0
+  ordering: 5
+  metakey: "modules, content"
+  metadesc: ""
+  access: 1
+  hits: 5
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+-
+  id: 3
+  asset_id: 91
+  title: "Article Categories Module"
+  alias: "article-categories-module"
+  title_alias: ""
+  introtext: "<p>This module displays a list of categories from one parent category. <a href=\"http://help.joomla.org/proxy/index.php?option=com_help&amp;keyref=Help16:Extensions_Module_Manager_Articles_Categories\" title=\"Categories Module\">Help</a></p>\r\n<div class=\"sample-module\">{loadmodule articles_categories,Articles Categories}</div>\r\n<p> </p>"
+  fulltext: ""
+  state: 1
+  sectionid: 0
+  mask: 0
+  catid: 64
+  created: "2011-01-01 00:00:01"
+  created_by: 42
+  created_by_alias: ""
+  modified: "2011-09-17 22:13:31"
+  modified_by: 42
+  checked_out: 0
+  checked_out_time: "0000-00-00 00:00:00"
+  publish_up: "2011-01-01 00:00:01"
+  publish_down: "0000-00-00 00:00:00"
+  images: ""
+  urls: ""
+  attribs: "{\"show_title\":\"\",\"link_titles\":\"\",\"show_intro\":\"\",\"show_category\":\"\",\"link_category\":\"\",\"show_parent_category\":\"\",\"link_parent_category\":\"\",\"show_author\":\"\",\"link_author\":\"\",\"show_create_date\":\"\",\"show_modify_date\":\"\",\"show_publish_date\":\"\",\"show_item_navigation\":\"\",\"show_icons\":\"\",\"show_print_icon\":\"\",\"show_email_icon\":\"\",\"show_vote\":\"\",\"show_hits\":\"\",\"show_noauth\":\"\",\"page_title\":\"\",\"alternative_readmore\":\"\",\"layout\":\"\"}"
+  version: 5
+  parentid: 0
+  ordering: 6
+  metakey: "modules, content"
+  metadesc: ""
+  access: 1
+  hits: 6
+  metadata: "{\"robots\":\"\",\"author\":\"\",\"rights\":\"\",\"xreference\":\"\"}"
+  featured: 0
+  language: "*"
+  xreference: ""
+...
