@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * @todo rewrite this entire snippet to use at least, DBO getQuery and JDocument
+ * Seriously. (fititnt, 2012-02-12 15:01)
+ */
+
+
+
 /* JoomlaFox! Code Snippet to export Joomla table as .csv, Version 1.0, 2009-12-05
  * by Emerson Rocha Luiz - Licenced by Creative Commons By 3.0 
  * http://www.fititnt.org/codigo/joomlafox/export-csv.html */

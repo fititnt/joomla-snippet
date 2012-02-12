@@ -1,1 +1,1 @@
-Examples of diferent types of files to parse by snippets of this repository
+Examples of diferent types of files to parse by snippets of this repository= data_sqlite-ToJson.php =On production, please take adicional care about SQL injection and XSS and do a better filter on user input
